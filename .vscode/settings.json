@@ -1,0 +1,15 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "files.autoGuessEncoding": false,
+    "workbench.editor.enablePreview": false,
+    "javascript.implicitProjectConfig.experimentalDecorators": true
+}
